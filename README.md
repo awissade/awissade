@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/abdellatif_wiss" target="blank"><img src="https://img.shields.io/twitter/follow/abdellatif_wiss?logo=twitter&style=for-the-badge" alt="abdellatif_wiss" /></a> </p>
 
-- 📫 How to reach me **abdelatifwiss@gamil.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdellatif_wiss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdellatif_wiss" height="30" width="40" /></a>
